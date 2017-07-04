@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+   <title>Github issue etiquette</title>
+   <meta name="author" content="Slava Akhmechet" />
+
+   <!-- syntax highlighting CSS -->
+   <link rel="stylesheet" href="/css/syntax.css" type="text/css" />
+
+   <!-- Homepage CSS -->
+   <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
+
+   <!-- Typekit -->
+   <script type="text/javascript" src="http://use.typekit.com/jpd0pfm.js"></script>
+   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+</head>
+<body>
+
+<div class="site">
+  <div class="title">
+    <a href="/">Slava Akhmechet</a>
+  </div>
+  
+  <p>
+<em>I am a cofounder of <a href="http://www.rethinkdb.com">RethinkDB</a> &mdash; an open-source distributed database designed to help developers and operations teams work with unstructured data to build real-time applications.</em>
+</p>
+<hr /><br />
+
+<div id="post">
+<h1>Github issue etiquette</h1>
+<p class="meta">02 Apr 2013</p>
+<p>Github&#8217;s issue tracker is a simple and convenient way to manage a project&#8217;s internal development process. However, its simplicity can cause unintended consequences. The moment your project gets popular, other people will be using it too. Having people outside of the development team use the same tracker requires special care you might be unprepared for. (Of course this is true about other open issue trackers too).</p>
+<p>Here&#8217;s an <a href="https://github.com/rethinkdb/rethinkdb/issues/408#issuecomment-15158650">example issue</a> from RethinkDB where I made a user unhappy. I talked to everyone internally, determined that there is nothing left to be done, and closed the issue. The thought that others might be using it as an indicator for when an external project fixes their issue didn&#8217;t even occur to me.</p>
+<p>After a few missteps like this, we evolved issue etiquette guidelines so we can be more helpful to people using the tracker. In the process I found the exact same guidelines extremely helpful to me as a project manager, so I decided to write them down:</p>
+<ul>
+	<li>EG0. Acknowledge receipt</li>
+	<li>EG1. Notify when you start work</li>
+	<li>EG2. Summarize the state of the issue</li>
+	<li>EG3. Give periodic status updates</li>
+	<li>EG3-a. Inform everyone if you slip</li>
+	<li>EG3-b. Inform everyone if you’re on track</li>
+	<li>EG4. Keep internal communication explicit</li>
+	<li>EG5. Make responsibility handoffs clear</li>
+	<li>EG6. Notify on development completion</li>
+	<li>EG7. Notify on fix availability</li>
+	<li>EG8. Always use friendly tone</li>
+	<li>EG9. Watch grammar and legibility</li>
+	<li>EG10. Talk to users on their terms</li>
+</ul>
+<p>This list of simple Etiquette Guidelines (<strong>EGs</strong>) can go a very long way to keep users happy.</p>
+<h3>EG0. Acknowledge receipt</h3>
+<p>It isn&#8217;t always possible to start working on an issue immediately, and that&#8217;s ok. But it&#8217;s very frustrating to submit an issue and get no response from the team for days. Give a simple receipt acknowledgment to alleviate this frustration:</p>
+<blockquote>
+<p>@xyz, thanks for letting us know about this bug. This is @wmrowan&#8217;s and @mlucy&#8217;s domain, I&#8217;ll ask one of them to take a look. I&#8217;ll get back to you when we start looking at it &#8212; we should be able to get to it in a day or two.</p>
+</blockquote>
+<h3>EG1. Notify when you start work</h3>
+<p>Once you start working on the issue, give the user a quick note that you&#8217;re looking into it. It&#8217;s helpful for the user to know when you start working on their issue, and it&#8217;s very useful to be able to talk to the person who&#8217;s working on it directly:</p>
+<blockquote>
+<p>I&#8217;m looking into this issue. I&#8217;ll get back to you when I have a little more info, should take an hour or so.</p>
+</blockquote>
+<h3>EG2. Summarize the state of the issue</h3>
+<p>Once you&#8217;ve looked into the issue, give the user a summary of the state of affairs. Here&#8217;s an example of a really good summary:</p>
+<blockquote>
+<p>I&#8217;ve started looking into this. It looks like the server is crashing because the random number generator is broken. The random number generator that we use uses the keyboard to generate entropy, but the RandomNoKeyboardException indicates that you seem to be running on a server with no active keyboard. I&#8217;m now working on switching the random number generator to the one that uses page fault count for entropy, which will alleviate this problem. It should take me about two days to implement and test this.</p>
+</blockquote>
+<p>A good issue summary will include all of the following information:</p>
+<ol>
+	<li>The latest understanding of exactly what&#8217;s going on</li>
+	<li>Evidence to support your claim</li>
+	<li>List of what needs to be done to fix the issue</li>
+	<li>Implementation plan for getting it done</li>
+	<li>Immediate next steps with an <span class="caps">ETA</span></li>
+	<li>Overall <span class="caps">ETA</span> for the issue</li>
+</ol>
+<p>Make the issue summary explicit, so everyone understands what&#8217;s going on. Since readers won&#8217;t have the context you do, it&#8217;s usually best to err on the side of more content.</p>
+<h3>EG3. Give periodic status updates</h3>
+<p>Sometimes development takes longer than expected, and sometimes the <span class="caps">ETA</span> is far enough into the future to make the user anxious. In both cases, it&#8217;s immensely helpful to give periodic status updates every few days:</p>
+<blockquote>
+<p>I&#8217;ve plugged in the new random number generator based on page fault counts and it&#8217;s working well. Here is what still needs to get done:<br />
+* The new random number generator breaks one of the unit tests. I need to fix it.<br />
+* After that, we need to test on a server without a keyboard.<br />
+I&#8217;m now working on the unit tests and will hand this issue to @coffeemug to do the server testing when I&#8217;m done. Unless we run into unexpected issues, we should be able to get the fix to you in the next two days. I&#8217;ll keep you posted on our progress.</p>
+</blockquote>
+<p>A good status update will include all of the following information:</p>
+<ol>
+	<li>What&#8217;s already been done</li>
+	<li>What remains to be done and a plan on how to do it</li>
+	<li>A list of known roadblocks and a plan on how to solve them</li>
+	<li>What you&#8217;re working on next and its <span class="caps">ETA</span></li>
+	<li>Overall <span class="caps">ETA</span> for closing the issue</li>
+</ol>
+<p>Most people reading the update won&#8217;t have all the context you do, so make sure you give enough information for everyone to understand what you mean. It&#8217;s your responsibility to be comprehensible.</p>
+<h3>EG3-a. Inform everyone if you slip</h3>
+<p>Occasionally you&#8217;ll promise to get an issue done by Friday, but won&#8217;t be able to make the date. It&#8217;s not the end of the world &#8212; software development estimates are notoriously hard. But keep in mind that people are waiting on your issue. It&#8217;s very frustrating for the user (or the project manager) to check the issue on Friday, and find no additional information. It&#8217;s even worse when they ping you and find out that you didn&#8217;t make it. Be courteous &#8212; tell them you&#8217;ll slip (in advance, if you can):</p>
+<blockquote>
+<p>It looks like I won&#8217;t be making the Friday <span class="caps">ETA</span>. Getting the page fault count from the kernel turned out to be a little more complicated than I expected. It&#8217;s done now, but I&#8217;d like a few more additional days for testing. I should be able to get this out by Tuesday. Apologies for inconvenience!</p>
+</blockquote>
+<h3>EG3-b. Inform everyone if you&#8217;re on track</h3>
+<p>Even if you&#8217;re making your dates, it&#8217;s still very helpful to tell everyone so they don&#8217;t have to wonder. People get antsy as you get close to the promised date, and a short sentence or two can really help them not worry. It also helps you be mindful of the deadlines and ETAs:</p>
+<blockquote>
+<p>Just an <span class="caps">FYI</span>, we&#8217;re still on track for Friday. I&#8217;ll add more details in the next status update shortly.</p>
+</blockquote>
+<h3>EG4. Keep internal communication explicit</h3>
+<p>In practice, many issues involve offline collaboration with members of the development team. It&#8217;s efficient, but can be very confusing for everyone else. It&#8217;s often unclear what was decided, who has to do what, and who&#8217;s in control. It&#8217;s good practice to summarize everything on the tracker:</p>
+<blockquote>
+<p>I spoke with @srh and he was a little concerned the new random number generator might break something. He promised to write an integration test &#8212; I&#8217;ll check back with him to make sure the test is written and passes before we close this.</p>
+</blockquote>
+<h3>EG5. Make responsibility handoffs clear</h3>
+<p>Few things are more frustrating than ambiguity over who&#8217;s responsible for fixing a problem. Keep this ambiguity to a minimum, and make sure to carefully hand off and pick up responsibility. Here&#8217;s a good example of how to hand off responsibility:</p>
+<blockquote>
+<p>Ok, the new random number generator is finished, and all unit tests pass. I&#8217;ve talked to @coffeemug &#8212; he&#8217;ll test it on a server with no keyboard. This issue is now in his court.</p>
+</blockquote>
+<p>And here&#8217;s a good example of how to pick it up:</p>
+<blockquote>
+<p>I&#8217;m on this. As @wmrowan said, it should take me about a day to get this tested. I&#8217;ll keep you posted on my progress.</p>
+</blockquote>
+<h3>EG6. Notify on development completion</h3>
+<p>When you&#8217;re done with the issue, it&#8217;s helpful to give as much information about it as possible:</p>
+<ul>
+	<li>a summary of what&#8217;s been done</li>
+	<li>a commit number</li>
+	<li>a code review number and the reviewers</li>
+	<li>how to test it</li>
+	<li>when it will be publicly available</li>
+</ul>
+<blockquote>
+<p>I&#8217;ve changed the random number generator to use page faults so it can work on keyboardless servers. Commit 23ab45, internal code review 189 by @jdoliner. Will be available in the 1.4 release in the next few days.</p>
+</blockquote>
+<h3>EG7. Notify on fix availability</h3>
+<p>Finally, when the fix becomes publicly available, inform everyone and tell them how to get it:</p>
+<blockquote>
+<p>This is now available in the 1.4 release &#8212; see http://www.rethinkdb.com/docs/install/. Just download the new version of the server and reinstall. Thanks for helping us get this fixed!</p>
+</blockquote>
+<h3>EG8. Always use friendly tone</h3>
+<p>Many open source projects consider it ok to be abrasive on the tracker. I think it&#8217;s never ok. If someone commenting on the issue frustrates you, most of the time it&#8217;s because they need a little additional guidance. Even when it&#8217;s not the case, kindness and firmness are not mutually exclusive.</p>
+<p>Here&#8217;s an example of a comment that has poor tone:</p>
+<blockquote>
+<p>Your proposal to switch from virtual functions to templates is stupid &#8212; it won&#8217;t speed anything up because cached vtable lookups are very fast, and adding templates will only increase the code size and blow the instruction cache. Not to mention that it will make our lives worse because it&#8217;ll increase the compilation time. The right decision here is to stick with virtual tables.</p>
+</blockquote>
+<p>Here&#8217;s this same example, rewritten with friendlier tone. The content is exactly the same, but the rewritten comment makes everyone happier:</p>
+<blockquote>
+<p>I really think the proposal to switch from virtual functions to templates is a bad idea. It&#8217;s unlikely to speed anything up because cached vtable lookups are very fast, and adding templates will almost certainly increase the code size and blow the instruction cache. Also, an additional downside of using templates is that it will make development harder because it will increase the build times. I really think we should stick with virtual tables.</p>
+</blockquote>
+<p>You have an enormous power over other people&#8217;s emotions. Use it wisely. Keep debate collaborative, be kind to others, and welcome criticism. It makes for a better product and a happier community.</p>
+<h3>EG9. Watch grammar and legibility</h3>
+<p>Use proper grammar and punctuation. Break up sentences into readable chunks. Give enough information so people understand what you&#8217;re talking about, but not so much as to inundate them. Use bulleted lists if you have to. Writing well takes a little bit more time, but there is one person writing a comment, and many people reading it. Be mindful of their time. This might even come in handy when you go back to read your own issue a few months later.</p>
+<h3>EG10. Talk to users on their terms</h3>
+<p>When you do something every day it&#8217;s easy to forget that most people don&#8217;t have the perspective you do. Talk to users in terms of the concepts they are most familiar with. For example, if you want to ask a user to provide a core dump, say explicitly what commands you want them to run and what to do with the file once they&#8217;re done.</p>
+<p>When an issue is fixed, or if there&#8217;s a workaround, give a clear path to action:</p>
+<blockquote>
+<p>Please run query X instead of query Y until you can upgrade to RethinkDB v1.4.3.</p>
+</blockquote>
+<p>Use primitives the user knows:</p>
+<ul>
+	<li>&#8220;Your program needs to do X&#8221;</li>
+	<li>&#8220;Your query needs to be like Y&#8221;</li>
+	<li>&#8220;Your server configuration needs to be edited to say Z&#8221;</li>
+</ul>
+</div>
+
+
+  
+  <div class="footer">
+    <div class="contact">
+      <p>
+        Slava Akhmechet<br />
+        Cofounder of <a href="http://www.rethinkdb.com">RethinkDB</a><br />
+        coffeemug@gmail.com
+      </p>
+    </div>
+    <div class="contact">
+      <p>
+        <a href="http://www.youtube.com/watch?v=B-YrZMR9QXc">&#955;</a><br />
+        <a href="http://www.defmacro.org">defmacro.org</a><br />
+        <a href="http://github.com/coffeemug/">github.com/coffeemug</a><br />
+      </p>
+    </div>
+    <div class="icon">
+      <img src="/images/glider.png" alt="hacker emblem" />
+    </div>
+  </div>
+  <link rel="alternate" type="application/atom+xml" title="defmacro.org" href="/feed.atom" />
+</div>
+
+</body>
+</html>

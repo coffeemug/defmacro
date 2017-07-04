@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+   <title>How to build great products</title>
+   <meta name="author" content="Slava Akhmechet" />
+
+   <!-- syntax highlighting CSS -->
+   <link rel="stylesheet" href="/css/syntax.css" type="text/css" />
+
+   <!-- Homepage CSS -->
+   <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
+
+   <!-- Typekit -->
+   <script type="text/javascript" src="http://use.typekit.com/jpd0pfm.js"></script>
+   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+</head>
+<body>
+
+<div class="site">
+  <div class="title">
+    <a href="/">Slava Akhmechet</a>
+  </div>
+  
+  <p>
+<em>I am a cofounder of <a href="http://www.rethinkdb.com">RethinkDB</a> &mdash; an open-source distributed database designed to help developers and operations teams work with unstructured data to build real-time applications.</em>
+</p>
+<hr /><br />
+
+<div id="post">
+<h1>How to build great products</h1>
+<p class="meta">26 Sep 2013</p>
+<p>If you believe that <a href="http://www.defmacro.org/2013/07/23/startup-lessons.html">sales fix everything</a>, it follows that most startups fail because they don&#8217;t ship a great product in a growing market before they run out of money. Assuming you&#8217;ve picked an explosive market, how do you go about building a great product?<sup>1</sup></p>
+<p>Building great products is hard, but the difficulty is greatly exacerbated if you have no good model for analyzing products and features. Without a model you&#8217;re left with a never-ending stream of feature ideas and half-informed shots in the dark. Some people can pull this off because they start out with a phenomenal product intuition. But most people aren&#8217;t blessed with this superpower on day one.</p>
+<p>I started out with terrible intuition (and didn&#8217;t even know it). Over the past three years I looked at our user metrics every day, creating a feedback loop to train my brain on what makes a good product. Eventually I got quite good at predicting the impact of any given feature, so I started thinking of a model that captures the essence of what I&#8217;ve learned.</p>
+<h2>The three bucket model</h2>
+<p>The most important aspect of product management is categorizing features into three buckets: gamechangers, showstoppers, and distractions. When I first started building products, all features looked roughly the same. Over time, I formed the three bucket model and now my mind automatically slots every feature into one of these buckets.</p>
+<p>Here is an example. Suppose you are building a new mobile phone. It has to be able to call people, or no one will buy it since it wouldn&#8217;t be much of a phone. But the reverse isn&#8217;t true &#8212; having voice calls won&#8217;t make anybody buy your phone because every other phone already does that. So for your mobile phone product, voice calls are a showstopper.</p>
+<p>On the other hand, suppose your phone could project videos onto a surface. No other phone does that, so this feature could be a gamechanger that excites a lot of consumers. Alternatively, it&#8217;s possible that most people won&#8217;t care about it at all, in which case it&#8217;s just a distraction.</p>
+<p>This example gives you three buckets to categorize any given feature:</p>
+<ul>
+	<li><strong>A gamechanger.</strong> People will want to buy your product because of this feature.</li>
+	<li><strong>A showstopper.</strong> People won&#8217;t buy your product if you&#8217;re missing this feature, but adding it won&#8217;t generate demand.</li>
+	<li><strong>A distraction.</strong> This feature will make no measurable impact on adoption.</li>
+</ul>
+<p>Empirically, successful products have one to three gamechanging features, dozens of features that neutralize showstoppers, and very few features that are distractions. Your job is to build an intuition about your space to be able to tell these categories apart. That&#8217;s still pretty subtle (is a built-in phone projector a gamechanger or a distraction?), but at least this model gives you a plan of attack.</p>
+<h2>Resource allocation</h2>
+<p>If you had infinite time, you could ignore these categories and blindly iterate on the product until it resonates with the market. But your time is finite. The longer you take to find a great product, the more likely you are to run out of cash, squander morale, or miss the market moving under your feet. Modeling product management in terms of the three categories is extremely valuable because it allows you to treat product management as a resource allocation problem.</p>
+<p>If you put any effort into distractions, you&#8217;re wasting resources. That much is obvious.</p>
+<p>If you&#8217;re doing more showstopper features than you absolutely need to, you&#8217;re wasting resources. Lack of copy-pasting on the first iPhone might have been a showstopper for some people, but Apple correctly determined that enough consumers would still buy the phone. There was no need to delay.</p>
+<p>If you put more effort into any given showstopper than the absolute minimum you can get away with, you&#8217;re wasting resources. The first iPhone had pretty bad voice quality, but it was good enough. Most people were willing to live with it. It made calls, and it wasn&#8217;t terrible. Improving the voice quality by another 10% would have made little measurable impact on adoption.</p>
+<p>If you&#8217;re doing more than three gamechanging features, you&#8217;re wasting resources. Empirically, few disruptive products are good at a dozen things. Shipping gamechanging features is <i>hard</i>. Three is probably the most you can get away with, and even that is a stretch.</p>
+<p>Finally, if you don&#8217;t pour enough creative energy into any given gamechanging feature, you&#8217;re wasting resources. If a gamechanging feature doesn&#8217;t absolutely blow people away, it&#8217;s not much of a gamechanger &#8212; it&#8217;s just a distraction. In this category you can&#8217;t go half way.</p>
+<p>You can get away with making some mistakes. Very few products absolutely nail this on launch. But most first time product managers break all of these rules all the time, probably because they&#8217;re not aware of them. Break these rules at your own peril. The fewer mistakes you make relative to your competition, the better. Every mistake can be incredibly costly. Make too many and someone else will run circles around you.</p>
+<h2>Craftsmanship</h2>
+<p>The trickiest part of building products is learning how to tell the difference between the categories and knowing when a given category is full. Is a built-in phone projector a gamechanger or a distraction? If it&#8217;s a gamechanger, is it big enough to attract sufficient demand, or do you need another gamechanger? If you invented the technology to increase voice quality by 50%, does that become a gamechanger or is it still just a showstopping feature? How about 200%? How many showstoppers do you have to neutralize to build a compelling phone?</p>
+<p>I have no idea what the answers are for the mobile phone market, but in my area, unstructured data, I can look at any given feature and tell which category it falls into quite easily. Sometimes I&#8217;m wrong, but that&#8217;s ok. I just have to be wrong less often than my competitors.</p>
+<p>The best way to build this intuition is to talk to a lot of people. Talk to potential users. What do they think? Talk to people who tried to build a product in your space and failed. What can you learn from their failure? Talk to competitors. How do they approach the problem? Talk to engineers in big companies. What can they tell you about the state of technology? Talk to other entrepreneurs in adjacent spaces, investors, journalists, grad students, professors, even the naysayers. The best way to get a sense of taste in a given space is to inject yourself into the industry and talk to as many people as you can.</p>
+<h2>Buyers, stakeholders, and pundits</h2>
+<p>The sooner you can learn about the history of the space, the state of the technology, the opinions of potential users, and the direction of your competition, the sooner you can form a coherent view of the space and develop a unique vision for your product. But be careful. It&#8217;s easy to start taking advice from the wrong people.</p>
+<p>Suppose you&#8217;ve decided to design your mobile phone in a form factor of a walkie talkie for construction workers, and you&#8217;ve determined that the best way to sell it is to construction managers top-down. If you talk to construction workers, they might be enamored by beautiful icons and an unusual color scheme. You might determine that the unique design of your phone is a gamechanger. But ultimately, it&#8217;s the construction manager who&#8217;s writing the check. For the construction manager, a beautiful design is nice, but it isn&#8217;t a gamechanger. It doesn&#8217;t help him run the business any better than he did before.</p>
+<p>For complex business sales, you have to pay attention to all the parties and make sure all the stakeholders are satisfied. Are the construction workers strong influencers on the manager&#8217;s decision? If so, spending time on a unique design might not be a bad idea. If not, you might be wasting your time.</p>
+<p>It&#8217;s true even for consumer products. If you&#8217;re designing a luxury phone and pricing it above every other phone on the market, do your customers have to convince their spouse? Do most families make shared decisions about buying luxury items, or do people splurge on luxury items independently? If they have to convince their spouse, can you add a feature to make it easier? Find out!</p>
+<p>Beware of noise. Learn the difference between your users and people who are just commenting. Everyone you talk to will have an opinion. Early on it can be tempting to design a product based on feedback from industry pundits. But a feature is only a gamechanger if the person signing the proverbial check recognizes it as one. Otherwise, it&#8217;s a distraction. Industry pundits can be extremely useful for understanding the state of your field, but they&#8217;re rarely the ones to buy your product. If you design your product around their feedback, you&#8217;ll find that there is nobody to buy it in the end.</p>
+<p>A corollary of this is that you can&#8217;t design a great product unless you live, eat, and breathe like your users do. You need to know <i>exactly</i> who your user is, what their problems are, how <i>they</i> perceive your product, and who helps them make buying decisions. Your intuition has to mirror how the customers will perceive your product. Categorizing features is only useful if it&#8217;s a good predictor of your actual users&#8217;s response. Otherwise, you&#8217;re just wasting time.</p>
+<h2>Aggregate gamechangers</h2>
+<p>There is a subtlety to the model we haven&#8217;t discussed so far. Some features aren&#8217;t sufficiently impressive on their own, but become gamechangers in aggregate. For example, suppose you design a unique set of icons for your phone. Is that a gamechanger? Probably not. What about a unique color scheme? It doesn&#8217;t seem like a gamechanger either. How about a unique family of phone cases? It&#8217;s hard to imagine people buying a phone because of a pretty case.<sup>2</sup> But what if you put these features together? A unique design direction that combines a novel icon set, color scheme, and family of phone cases sounds like it might be a sufficient gamechanger to attract consumers.</p>
+<p>Features that become gamechangers in aggregate are dangerous for three reasons. Firstly, it becomes harder to tell what combination of individual features is and isn&#8217;t a gamechanger. Secondly, aggregate gamechangers are expensive &#8212; instead of making a couple of good decisions on a feature, you have to make dozens or hundreds of good decisions for a whole family of features. Thirdly, it makes it easier to convince yourself that if you add just one more feature, you&#8217;ll strike a gamechanger. Building great products is already difficult. Introducing a subtlety like this makes it even harder.</p>
+<p>Many products do succeed in exactly this way, but if possible, try to avoid it. If you have no choice but to resort to aggregate gamechangers, it probably means you&#8217;re working in a relatively mature market. Often, that&#8217;s ok, but it should prompt you to do some soul searching. Is it really worth being in this market, or does it make sense to find another one where you can innovate more easily?</p>
+<h2>Product mission</h2>
+<p>Suppose you&#8217;ve developed product intuition to apply the three bucket model to your field. You can easily (and correctly) categorize features. You&#8217;re now ahead of most product managers. But you&#8217;re still not quite done. There are a few problems with this approach:</p>
+<ul>
+	<li>If you&#8217;re categorizing features ad-hoc, it&#8217;s easy to make mistakes and then construct a rhetoric in your mind to convince yourself that you&#8217;ve done the right thing.</li>
+	<li>While you&#8217;re building the product, you&#8217;ll have to be a part of every single decision because other people have no guidance.</li>
+	<li>Your engineers will get frustrated, because they&#8217;ll think you&#8217;re pulling decisions out of thin air.</li>
+	<li>Before the product is done you&#8217;ll have to convince many other people to help you &#8212; journalists, investors, potential hires, and customers. Convincing people is hard if you&#8217;re making decisions ad-hoc.</li>
+</ul>
+<p>A great way to get around these problems is to write down a product mission. Think of it as a function that accepts a given feature as an argument, and returns one of the three categories above. A good function definition is concise, understandable, and repeatable. Ideally after reading it, most people on your team will be able to categorize features themselves in the same way you would.</p>
+<p><a href="https://github.com/rethinkdb/rethinkdb/issues/1000">Here</a> is a humorous product mission we came up with for RethinkDB that worked surprisingly well:</p>
+<blockquote>
+<p><strong>Database tools should be indistinguishable from magic</strong><br />
+Surprise and amaze people with developer tools for building real-time, data-driven web applications they could only dream of building, and bring sheer joy and simplicity to the process of building great software.</p>
+</blockquote>
+<p>On the surface these two sentences don&#8217;t say very much, but if you dig in a little, this product mission has surprisingly high information density. It tells people we&#8217;re building a database. It tells people we treat the product as a developer tool first. This resolves the tension between developer features (like the query language) and operations features (like monitoring). All of our gamechanging features revolve around developers. We treat operations as a showstopper. It explains what we expect our users to do with RethinkDB (build real-time, data-driven web applications). It gives people a sense of how far we&#8217;ll go on certain features (surprise and amaze). Being good enough for developers isn&#8217;t enough. These people spend many hours a day using our software &#8212; we want to make the experience <i>pleasant</i>. It suggests that we are willing to accept more complex implementations to make our users&#8217;s lives easier. It guides us to build features that let developers build new types of applications, not just the ones that already exist. It&#8217;s self-aware and leaks a healthy sense of humor we have as a team. This gives people a sense of who we are. We can test feature proposals against this product mission, and with a bit of additional shared knowledge it lets our team members independently categorize features in roughly the same way.</p>
+<p>It took us three years to understand what we&#8217;re doing well enough to come up with this product mission. If we&#8217;d had it on day one, it would probably have cut development time in half &#8212; maybe more. When you&#8217;re building a product, the mission should be the first thing you work on. If your mental model is good enough to write a product mission that inspires everyone in your company, everything else will fall into place.</p>
+<p><br />
+<i><sup>1</sup> I don&#8217;t mean to imply that picking a good market is easier than building a great product. In fact, the opposite is true. It&#8217;s far easier to get a handle on product management, so I decided to tackle this subject first. Aside from great products and market growth, there are also questions of distribution, economics, regulated markets, and other subtleties. But the number of early stage software startups that fail for these reasons pales in comparison to the number of startups that pick small markets or don&#8217;t manage to deliver great products on time.</i><br />
+<i><sup>2</sup> In practice it often turns out that people do buy phones because of unique colors or cases. But I&#8217;m ignoring this subtlety to focus on a larger point.</i></p>
+<p><br />
+<i>Thanks to Michael Glukhovsky and Michael Lucy for reviewing this post.</i></p>
+</div>
+
+
+  
+  <div class="footer">
+    <div class="contact">
+      <p>
+        Slava Akhmechet<br />
+        Cofounder of <a href="http://www.rethinkdb.com">RethinkDB</a><br />
+        coffeemug@gmail.com
+      </p>
+    </div>
+    <div class="contact">
+      <p>
+        <a href="http://www.youtube.com/watch?v=B-YrZMR9QXc">&#955;</a><br />
+        <a href="http://www.defmacro.org">defmacro.org</a><br />
+        <a href="http://github.com/coffeemug/">github.com/coffeemug</a><br />
+      </p>
+    </div>
+    <div class="icon">
+      <img src="/images/glider.png" alt="hacker emblem" />
+    </div>
+  </div>
+  <link rel="alternate" type="application/atom+xml" title="defmacro.org" href="/feed.atom" />
+</div>
+
+</body>
+</html>

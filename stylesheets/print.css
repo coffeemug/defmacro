@@ -1,0 +1,22 @@
+
+/* Turn off the navigation */
+.navigation 
+{
+    display: none;
+}
+
+/* Turn off the header */
+#header
+{
+    display: none;
+}
+#page-extra-1
+{
+    display: none;
+}
+
+/* Turn off footer images */
+#footer img
+{
+    display: none;
+}
