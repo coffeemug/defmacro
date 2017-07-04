@@ -17,7 +17,7 @@ title: defmacro
 author: Slava Akhmechet
 email: coffeemug@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Musings on building groundbreaking technology companies.
+  Product at Stripe. Built RethinkDB. Computational neuroscience PhD dropout. Dilettante economist, anthropologist, and rationalist.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: spakhm
