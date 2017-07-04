@@ -1,1 +1,1 @@
-Go to [www.defstartup.org](http://www.defstartup.org/).
+Go to [www.defmacro.org](http://www.defmacro.org/).
