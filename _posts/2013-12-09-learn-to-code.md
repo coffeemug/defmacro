@@ -1,0 +1,116 @@
+---
+layout: post
+title:  "Learn to code like it's 1996"
+---
+
+I&#8217;ve been meaning to write up my take on the learn to code
+movement for quite some time now, but for one reason or another
+haven&#8217;t managed to get around to it. Now that the president is
+endorsing Computer Science
+and <a href="https://www.youtube.com/watch?v=6XvmhE1J9PY&amp;list=TL6euzOUWjLwl8_6zUc-uxbfDbAZw-8RhW">telling
+Americans to learn to code</a>, this post has jumped to the top of my
+priority list.
+
+After all, I have a unique perspective on this movement that most
+commentators are missing. I was a Russian immigrant
+in <span class="caps">NYC</span> in 1996.
+
+For the first two weeks after moving from Ukraine to New York, my
+family of five (my mom, dad, my mom&#8217;s parents, and myself) lived
+in a tiny two bedroom apartment on Coney Island Avenue in Brooklyn
+with my aunt&#8217;s family of five (my aunt, uncle, their teenage
+son, and their twenty-two year old daughter with her husband). It was
+a pretty good neighborhood, but very loud. We arrived just on the eve
+of the fourth of July and I distinctly remember being unable to sleep
+because of loud bangs of fireworks immediately followed by the
+pernicious whine of car alarms going off every few minutes.
+
+For my thirteen year old self it was an adventure. For my parents, who
+were in their mid-forties and have never left the familiar confines of
+the Soviet Union before, it was a hell of a culture shock. Like most
+immigrants, &#8220;what have we gotten ourselves into&#8221; must have
+been all they were thinking those first few weeks.
+
+My uncle, who was a math teacher back home, worked his ass off to
+support his family. He&#8217;d be out of the apartment by seven in the
+morning, working until 6pm in a furniture factory, building and
+delivering cheap convertible sofa beds for other Russian immigrant
+families. When he was done with his day job, he&#8217;d come home,
+take a quick shower, and be off to night school. He was, you guessed
+it, learning to code, in a class of thirty other middle aged Russian
+immigrants. He was learning to program
+the <span class="caps">IBM</span> AS/400.
+
+1996 was smack in the middle of an enormous wave of immigration from
+the former Soviet Union. By some accounts millions of people left to
+seek a better life all over the world, and a lion&#8217;s share of
+these people ended up in New York City. The infrastructure supporting
+these families was staggering &#8212; thousands of businesses ran and
+operated by Russian immigrants in Brooklyn alone, dozens of non-profit
+organizations helping with necessities and teaching the basics of the
+new American life (I still remember the four hour long waiting lines
+in <a href="http://en.wikipedia.org/wiki/New_York_Association_for_New_Americans"><span class="caps">NYANA</span></a>
+&#8212; the New York Association for New Americans), special programs
+in high schools to help integrate Russian students via a smooth
+transition (it didn&#8217;t feel all that smooth, but it was better
+than nothing), and multiple Russian-American TV channels which
+provided some relief from the immense culture shock and offered a
+window into the soul of the Russian-American community.
+
+At the time, becoming a limo driver was the bread and butter job for
+relatively healthy Russian males. You didn&#8217;t have to speak any
+English, the salaries were pretty good relative to other available
+opportunities, you could pick your hours to work around your trade
+school schedule, and the Wall Street firms were more than willing to
+subsidize the demand for a much needed supply. Every twenty minutes
+the Russian-American TV channels ran advertisements by various limo
+companies recruiting new drivers and promising the American dream (all
+the ads had a stereotypical-looking middle aged Russian immigrant
+sipping margaritas by a pool of his new house, surrounded by beautiful
+women in bikinis, all because he became a limo driver).
+
+But the limo companies had competition for recruits. Various city,
+state, and federal government agencies offered grants to subsidize
+trade schools in order to help integrate the enormous wave of
+immigrants. The U.S. was in the middle of the dot-com boom, and the
+Russian immigrant community in New York felt it. Dozens of trade
+schools offered computer programming courses for the new immigrants in
+anything from AS/400 to Fortran to Visual Basic, all paid for by
+government agencies. The biggest schools advertised on the
+Russian-American TV channels competing with the limo companies for
+recruits directly. Why drive a limo all day, if you could learn to
+program computers? They showed overworked limo drivers shedding their
+Lincoln Towncars and buying expensive suits with briefcases, arriving
+to their newly minted high profile jobs in downtown Manhattan. In just
+a few short months, they said, you could have a much bigger salary
+doing an easier job. No cheesy houses with pools and bikini girls. The
+stereotypical-looking middle aged Russian immigrant in these ads was
+far more serious, a professional, living the <strong>real</strong>
+American dream.
+
+The late nineties, Russian immigrant version of the learn to code
+movement <strong>really</strong> took off. Every once in a while
+you&#8217;d hear about someone who never finished high school back
+home going through one of these trade schools and getting a
+programming job, which made more people sign up. You couldn&#8217;t
+buy a loaf of Russian bread or take the Q train from Brooklyn to
+Manhattan without overhearing a conversation about someone going to
+one of these schools, or planning to start, or finally getting a job
+in a &#8220;real&#8221; company programming computers (as opposed to a
+job in one of the many stingy Russian businesses).
+
+By 2000 the whole thing went bust. Most people taking these courses
+never managed to get a job, and everyone found out soon enough. Most
+of the few people that did manage to get jobs lost them after the
+dot-com crash. Everyone found out about that too. Trade school TV
+advertisements stopped entirely, replaced by advertisements of medical
+and dental offices. By 2005 everyone forgot about the whole thing.
+
+I don&#8217;t know what it means for today&#8217;s learn to code
+movement, or whether there are any useful parallels to be drawn from
+its 1996 counterpart. In many ways today&#8217;s movement feels
+similar, but there are many crucial ways in which it&#8217;s
+different. All I know is that my uncle is one of the very few people
+who are to this day making a living programming
+the <span class="caps">IBM</span> AS/400.
+
