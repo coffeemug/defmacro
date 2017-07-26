@@ -26,3 +26,4 @@ new ones.
 - [The Tyranny of Structurelessness](http://www.jofreeman.com/joreen/tyranny.htm) -- Jo Freeman
 - [The Use of Knowledge in Society](http://www.econlib.org/library/Essays/hykKnw1.html) -- F.A. Hayek
 - [The Unreasonable Effectiveness of Mathematics in the Natural Sciences](http://www.dartmouth.edu/~matc/MathDrama/reading/Wigner.html) -- Eugene Wigner
+- [Why our future depends on libraries, reading and daydreaming](https://www.theguardian.com/books/2013/oct/15/neil-gaiman-future-libraries-reading-daydreaming) -- Neil Gaiman
