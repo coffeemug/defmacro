@@ -15,7 +15,7 @@ new ones.
 - [Five Ways To Build 100 Million Business](http://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html) -- Christoph Janz
 - [The Tyranny of Small Decisions](http://opus1journal.org/articles/article.asp?docID=140) --  Alfred Kahn
 - [Politics and the English Language](http://www.orwell.ru/library/essays/politics/english/e_polit/) -- George Orwell
-- [How to say nothing in five hundred words](http://www.mrgunnar.net/ap.cfm?subpage=348270) -- Paul McHenry Roberts
+- [How to say nothing in five hundred words](/HowtoSayNothingin500Words.pdf) -- Paul McHenry Roberts
 - [The Age of the Essay](http://www.paulgraham.com/essay.html) -- Paul Graham
 - [The Median Isn't the Message](http://cancerguide.org/median_not_msg.html) -- Stephen Jay Gould
 - [Cargo Cult Science](http://calteches.library.caltech.edu/51/2/CargoCult.htm) -- Richard Feynman
