@@ -1,35 +1,8 @@
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
-<head>
-   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-   <title>The effective engineer’s handbook</title>
-   <meta name="author" content="Slava Akhmechet" />
+---
+layout: post
+title:  "The effective engineer’s handbook"
+---
 
-   <!-- syntax highlighting CSS -->
-   <link rel="stylesheet" href="/css/syntax.css" type="text/css" />
-
-   <!-- Homepage CSS -->
-   <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
-
-   <!-- Typekit -->
-   <script type="text/javascript" src="http://use.typekit.com/jpd0pfm.js"></script>
-   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-</head>
-<body>
-
-<div class="site">
-  <div class="title">
-    <a href="/">Slava Akhmechet</a>
-  </div>
-  
-  <p>
-<em>I am a cofounder of <a href="http://www.rethinkdb.com">RethinkDB</a> &mdash; an open-source distributed database designed to help developers and operations teams work with unstructured data to build real-time applications.</em>
-</p>
-<hr /><br />
-
-<div id="post">
-<h1>The effective engineer’s handbook</h1>
-<p class="meta">10 Mar 2013</p>
 <p class="meta">I wrote this guide for new RethinkDB employees sometime in early 2012. Re-reading it one year later, everything still rings true (though it&#8217;s much more wordy and self-aggrandizing than I&#8217;d like &#8212; I&#8217;ll edit it some day). I believe this advice can be helpful to everyone trying to do good work, not just people working at startups, so I&#8217;m publishing it as is.</p>
 <p class="meta"><span class="caps">EDIT</span>: Daniel Gackle pointed out that the quotes by Plato and Aristotle <a href="http://quoteinvestigator.com/2010/06/29/be-kind/">aren&#8217;t</a> <a href="http://blogs.umb.edu/quoteunquote/2012/05/08/its-a-much-more-effective-quotation-to-attribute-it-to-aristotle-rather-than-to-will-durant/">real</a>. I&#8217;m leaving the attributions since by now they&#8217;ve become a part of the long-term internet memory, and it&#8217;s not my place to fix cosmic errors of this magnitude.</p>
 <blockquote>
@@ -83,31 +56,3 @@
 </blockquote>
 <p>Getting these things right requires a tremendous level of skill. You&#8217;re walking a tightrope in a multidimensional space, maintaining fine balance between being focused and burning out, shipping quickly and shipping quality, asserting yourself and damaging the team. We don&#8217;t expect you to get it right on day one. Occasionally we still slip and fall. Inevitably, you will too. That&#8217;s OK &#8211; we&#8217;ll pick you up and put you on the right track again. But it&#8217;s in mastering these details that great things are built. Learning how to do them well is an essential part of growing as an engineer because technical aptitude is only the beginning of excellence, not the end. We expect you to demonstrate dedication to learning these skills, receptiveness to feedback, and aptitude in mastering them quickly. It&#8217;s the most crucial aspect of building great software and is an essential part of being successful at RethinkDB.</p>
 <p>Good luck!</p>
-</div>
-
-
-  
-  <div class="footer">
-    <div class="contact">
-      <p>
-        Slava Akhmechet<br />
-        Cofounder of <a href="http://www.rethinkdb.com">RethinkDB</a><br />
-        coffeemug@gmail.com
-      </p>
-    </div>
-    <div class="contact">
-      <p>
-        <a href="http://www.youtube.com/watch?v=B-YrZMR9QXc">&#955;</a><br />
-        <a href="http://www.defmacro.org">defmacro.org</a><br />
-        <a href="http://github.com/coffeemug/">github.com/coffeemug</a><br />
-      </p>
-    </div>
-    <div class="icon">
-      <img src="/images/glider.png" alt="hacker emblem" />
-    </div>
-  </div>
-  <link rel="alternate" type="application/atom+xml" title="defmacro.org" href="/feed.atom" />
-</div>
-
-</body>
-</html>

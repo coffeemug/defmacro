@@ -1,35 +1,8 @@
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
-<head>
-   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-   <title>Github issue etiquette</title>
-   <meta name="author" content="Slava Akhmechet" />
+---
+layout: post
+title:  "Github issue etiquette"
+---
 
-   <!-- syntax highlighting CSS -->
-   <link rel="stylesheet" href="/css/syntax.css" type="text/css" />
-
-   <!-- Homepage CSS -->
-   <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
-
-   <!-- Typekit -->
-   <script type="text/javascript" src="http://use.typekit.com/jpd0pfm.js"></script>
-   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-</head>
-<body>
-
-<div class="site">
-  <div class="title">
-    <a href="/">Slava Akhmechet</a>
-  </div>
-  
-  <p>
-<em>I am a cofounder of <a href="http://www.rethinkdb.com">RethinkDB</a> &mdash; an open-source distributed database designed to help developers and operations teams work with unstructured data to build real-time applications.</em>
-</p>
-<hr /><br />
-
-<div id="post">
-<h1>Github issue etiquette</h1>
-<p class="meta">02 Apr 2013</p>
 <p>Github&#8217;s issue tracker is a simple and convenient way to manage a project&#8217;s internal development process. However, its simplicity can cause unintended consequences. The moment your project gets popular, other people will be using it too. Having people outside of the development team use the same tracker requires special care you might be unprepared for. (Of course this is true about other open issue trackers too).</p>
 <p>Here&#8217;s an <a href="https://github.com/rethinkdb/rethinkdb/issues/408#issuecomment-15158650">example issue</a> from RethinkDB where I made a user unhappy. I talked to everyone internally, determined that there is nothing left to be done, and closed the issue. The thought that others might be using it as an indicator for when an external project fixes their issue didn&#8217;t even occur to me.</p>
 <p>After a few missteps like this, we evolved issue etiquette guidelines so we can be more helpful to people using the tracker. In the process I found the exact same guidelines extremely helpful to me as a project manager, so I decided to write them down:</p>
@@ -157,31 +130,5 @@ I&#8217;m now working on the unit tests and will hand this issue to @coffeemug t
 	<li>&#8220;Your query needs to be like Y&#8221;</li>
 	<li>&#8220;Your server configuration needs to be edited to say Z&#8221;</li>
 </ul>
-</div>
 
 
-  
-  <div class="footer">
-    <div class="contact">
-      <p>
-        Slava Akhmechet<br />
-        Cofounder of <a href="http://www.rethinkdb.com">RethinkDB</a><br />
-        coffeemug@gmail.com
-      </p>
-    </div>
-    <div class="contact">
-      <p>
-        <a href="http://www.youtube.com/watch?v=B-YrZMR9QXc">&#955;</a><br />
-        <a href="http://www.defmacro.org">defmacro.org</a><br />
-        <a href="http://github.com/coffeemug/">github.com/coffeemug</a><br />
-      </p>
-    </div>
-    <div class="icon">
-      <img src="/images/glider.png" alt="hacker emblem" />
-    </div>
-  </div>
-  <link rel="alternate" type="application/atom+xml" title="defmacro.org" href="/feed.atom" />
-</div>
-
-</body>
-</html>
