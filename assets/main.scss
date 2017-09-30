@@ -42,3 +42,17 @@ a.post-link {
 .post-list > li {
   margin-bottom: 10px;
 }
+
+blockquote {
+  color: $text-color;
+  border-left: 4px solid $grey-color-light;
+  padding-left: $spacing-unit / 2;
+  margin-left: $spacing-unit;
+  font-size: 16px;
+  letter-spacing: normal;
+  font-style: normal;
+}
+
+.post-title {
+  line-height: 1.2;
+}

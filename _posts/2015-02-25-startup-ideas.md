@@ -167,7 +167,9 @@ Human beings are wired to respond to storytelling, and all stories
 have the same fundamental structure. Here is the simplest possible
 framework to tell a story, from Pixar&#8217;s rules of storytelling:
 
-> Once upon a time there was ___. Every day, ___. One day ___. Because of that, ___. Because of that, ___. Until finally ___.
+> Once upon a time there was \_\_\_. Every day, \_\_\_. One day
+> \_\_\_. Because of that, \_\_\_. Because of that, \_\_\_. Until
+> finally \_\_\_.
 
 The first part is the setup. The world used to work in a particular
 way, and here is what it meant for people&#8217;s daily lives. The
