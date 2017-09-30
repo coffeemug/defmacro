@@ -56,3 +56,13 @@ blockquote {
 .post-title {
   line-height: 1.2;
 }
+
+// legacy posts
+h2 > a, h2 > a:hover, div#footnotes > p > sup > a {
+    color: $text-color;
+    text-decoration: none;
+}
+
+div#footnotes > p {
+    font-style: italic;
+}
