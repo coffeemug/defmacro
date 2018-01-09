@@ -66,3 +66,14 @@ h2 > a, h2 > a:hover, div#footnotes > p > sup > a {
 div#footnotes > p {
     font-style: italic;
 }
+
+.post-content h3 {
+    font: 14px/20px Verdana, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+img[src$='#center'] {
+    margin: auto;
+    display: block;
+}
