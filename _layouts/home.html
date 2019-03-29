@@ -10,12 +10,14 @@ layout: default
 
   <ul class="post-list">
     {% for post in site.posts %}
+      {% unless post.draft == true %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 	<span>&raquo;</span>
 	<a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
 	
       </li>
+      {% endunless %}
     {% endfor %}
       <li>
         <span class="post-meta">May 08, 2006</span>
