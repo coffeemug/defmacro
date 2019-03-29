@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Startup idea checklist"
-draft: true
 ---
 
 I've been tinkering with different startup ideas and needed a good
