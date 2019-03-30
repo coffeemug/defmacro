@@ -68,6 +68,7 @@ stages, good ideas are very easy to kill.
 1. Fill in the bottom-up market size equation: `NUM_USERS * ACV =
    MARKET_SIZE`. Are your numbers credible? Find a good reference
    class if you’re building something completely new.
+   <br/><span class="annotation">__See also:__ [Shut up and multiply][]</span>
 1. List your first ten customers.
    <br/><span class="annotation"><= 240 chars</span>
    <br/><span class="annotation">__See also:__ [Do Things that Don't Scale][]</span>
@@ -78,6 +79,7 @@ stages, good ideas are very easy to kill.
    unlimited cheap capital? How will you achieve that?
    <br/><span class="annotation"><= 240 chars</span>
    
+[Shut up and multiply]: https://wiki.lesswrong.com/wiki/Shut_up_and_multiply
 [Five ways to build a $100 million business]: http://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html
 [Do Things that Don't Scale]: http://paulgraham.com/ds.html
 
