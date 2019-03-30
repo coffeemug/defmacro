@@ -23,6 +23,9 @@ stages, good ideas are very easy to kill.
 
 1. What are you building?
    <br/><span class="annotation"><= 70 chars</span>
+   <br/><span class="annotation">[@sama][]: "it's easy/fun to say
+   every new startup you hear about is bad. you will usually be right.
+   you will never be successful."</span>
 1. Who is it for?
    <br/><span class="annotation"><= 70 chars</span>
 1. What's the essence of their pain? If they read this answer, would
@@ -54,7 +57,8 @@ stages, good ideas are very easy to kill.
    <br/><span class="annotation"><= 240 chars</span>
    <br/><span class="annotation">__See also:__ [The Rise of Worse is Better][],
    [Worse is worse][]</span>
-   
+
+[@sama]: https://twitter.com/sama/status/571733273996488704
 [@benedictevans]: https://twitter.com/benedictevans/status/1110538673873805314
 [@BrianNorgard]: https://twitter.com/BrianNorgard/status/1110915013085028353
 [The Rise of Worse is Better]: https://www.jwz.org/doc/worse-is-better.html
