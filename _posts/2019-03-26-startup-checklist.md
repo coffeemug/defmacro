@@ -67,7 +67,7 @@ stages, good ideas are very easy to kill.
 1. Fill in the bottom-up market size equation: `NUM_USERS * ACV =
    MARKET_SIZE`. Are your numbers credible? Find a good reference
    class if you’re building something completely new.
-1. How will you get your first ten customers?
+1. List your first ten customers.
    <br/><span class="annotation"><= 240 chars</span>
    <br/><span class="annotation">__See also:__ [Do Things that Don't Scale][]</span>
 1. Which playbook will you use to get customers after the first ten?
@@ -131,4 +131,10 @@ stages, good ideas are very easy to kill.
 {:start="20"}
 
 1. What’s your company’s stock ticker symbol?
+
+---
+
+_Thanks to [Darryl Ramm][] for feedback on this post._
+
+[Darryl Ramm]: https://twitter.com/darryl_ramm/status/1111829084202397696
 
