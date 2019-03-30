@@ -23,9 +23,6 @@ stages, good ideas are very easy to kill.
 
 1. What are you building?
    <br/><span class="annotation"><= 70 chars</span>
-   <br/><span class="annotation">[@sama][]: "it's easy/fun to say
-   every new startup you hear about is bad. you will usually be right.
-   you will never be successful."</span>
 1. Who is it for?
    <br/><span class="annotation"><= 70 chars</span>
 1. What's the essence of their pain? If they read this answer, would
@@ -135,6 +132,9 @@ stages, good ideas are very easy to kill.
 {:start="20"}
 
 1. What’s your company’s stock ticker symbol?
+<br/><span class="annotation">[@sama][]: "it's easy/fun to say every
+new startup you hear about is bad. you will usually be right. you will
+never be successful."</span>
 
 ---
 
