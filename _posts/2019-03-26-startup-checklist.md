@@ -49,9 +49,9 @@ stages, good ideas are very easy to kill.
    Include the product name, an explanation of what the product is,
    the target market, the main benefit, and the call to action.
    <br/><span class="annotation"><= 240 chars</span>
-1. What "metrics of goodness" do your target customers care about? Is
-   your product qualitatively better on these metrics than every
-   available alternative?
+1. What "metrics of goodness" do your target customers care about?
+   Does your product dominate every available alternative on these
+   metrics?
    <br/><span class="annotation"><= 240 chars</span>
    <br/><span class="annotation">__See also:__ [The Rise of Worse is Better][],
    [Worse is worse][]</span>
