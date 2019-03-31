@@ -25,15 +25,16 @@ stages, good ideas are very easy to kill.
    <br/><span class="annotation"><= 70 chars</span>
 1. Who is it for?
    <br/><span class="annotation"><= 70 chars</span>
-1. What's the essence of their pain? If they read this answer, would
-   they say "thanks, I wish I’d thought of putting it that way”?
+1. What's the essence of their dissatisfaction? If they read this
+   answer, would they say "thanks, I wish I’d thought of putting it
+   that way”?
    <br/><span class="annotation"><= 240 chars</span>
    <br/><span class="annotation">[@benedictevans][]: "The iTunes Store
    solved a user problem. So did the App Store. And so did Spotify and
    Apple Music, and indeed Apple News. But what user problem is solved
    by Apple’s commissioning TV shows?"</span>
 1. Write a tweet from a hypothetical customer explaining the product
-   and how it alleviates their pain.
+   and how it eliminates their dissatisfaction.
    <br/><span class="annotation">[@BrianNorgard][]: No one cares
    about your product. Who built it, its features, the origin story —
    it’s all superfluous. People only find value in what your product
@@ -69,6 +70,9 @@ stages, good ideas are very easy to kill.
    MARKET_SIZE`. Are your numbers credible? Find a good reference
    class if you’re building something completely new.
    <br/><span class="annotation">__See also:__ [Shut up and multiply][]</span>
+1. Which subset of your target customers are so constrained by the
+   status quo, they'll welcome a buggy product?
+   <br/><span class="annotation"><= 140 chars</span>
 1. List your first ten customers.
    <br/><span class="annotation"><= 240 chars</span>
    <br/><span class="annotation">__See also:__ [Do Things that Don't Scale][]</span>
@@ -85,7 +89,7 @@ stages, good ideas are very easy to kill.
 
 # Strategy
 
-{:start="12"}
+{:start="13"}
 
 1. Why now? What’s true about the world that nobody else figured out
    yet?
@@ -110,7 +114,7 @@ stages, good ideas are very easy to kill.
    
 # Meaning
 
-{:start="17"}
+{:start="18"}
 
 1. What would reaching your 25 year milestone mean for the world? Is
    this future _really_ exciting? How many years of your life would you
@@ -131,7 +135,7 @@ stages, good ideas are very easy to kill.
 
 # Bonus
 
-{:start="20"}
+{:start="21"}
 
 1. What’s your company’s stock ticker symbol?
 <br/><span class="annotation">[@sama][]: "it's easy/fun to say every
