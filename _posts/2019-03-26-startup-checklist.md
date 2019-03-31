@@ -25,7 +25,7 @@ stages, good ideas are very easy to kill.
    <br/><span class="annotation"><= 70 chars</span>
 1. Who is it for?
    <br/><span class="annotation"><= 70 chars</span>
-1. What's the essence of their dissatisfaction? If they read this
+1. What is the essence of their dissatisfaction? If they read this
    answer, would they say "thanks, I wish I’d thought of putting it
    that way”?
    <br/><span class="annotation"><= 240 chars</span>
