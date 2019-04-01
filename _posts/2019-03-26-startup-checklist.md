@@ -33,9 +33,9 @@ stages, good ideas are very easy to kill.
    solved a user problem. So did the App Store. And so did Spotify and
    Apple Music, and indeed Apple News. But what user problem is solved
    by Apple’s commissioning TV shows?"</span>
-   <br/><span class="annotation">__Note__: Is the product being
-   designed __for__ the customer, or __at__ the customer? (see
-   [The Effective Executive][])</span>
+   <br/><span class="annotation">[The Effective Executive][]: Is the
+   product being designed __for__ the customer, or __at__ the
+   customer? </span>
 1. Write a tweet from a hypothetical customer explaining the product
    and how it eliminates their dissatisfaction.
    <br/><span class="annotation">[@BrianNorgard][]: No one cares
@@ -43,6 +43,8 @@ stages, good ideas are very easy to kill.
    it’s all superfluous. People only find value in what your product
    can do for them right now. Save people time. Save people money.
    Give people an escape. The selfish hand will always govern.</span>
+   <br/><span class="annotation">[The Effective Executive][]: Are you
+   __really__ doing the best you can to help the customer?</span>
 1. Write a blog post title for your product launch. Is it
    surprising? Is it new? Will your target customers want to click on
    it? Will they want to share the link? Will they still share it the
