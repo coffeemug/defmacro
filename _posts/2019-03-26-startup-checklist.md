@@ -147,6 +147,10 @@ stages, good ideas are very easy to kill.
 new startup you hear about is bad. you will usually be right. you will
 never be successful."</span>
 
+1. Is it likely to be the most important company started this year?
+<br/><span class="annotation">__George Orwell__: "Whoever is winning
+at the moment will always seem to be invincible."</span>
+
 ---
 
 _Thanks to [Darryl Ramm][] for feedback on this post._
