@@ -21,9 +21,7 @@ stages, good ideas are very easy to kill.
 
 # Product
 
-1. What are you building?
-   <br/><span class="annotation"><= 70 chars</span>
-1. Who is it for?
+1. Who are the users?
    <br/><span class="annotation"><= 70 chars</span>
 1. What is the essence of their dissatisfaction? If they read this
    answer, would they say "thanks, I wish I’d thought of putting it
@@ -35,6 +33,8 @@ stages, good ideas are very easy to kill.
    by Apple’s commissioning TV shows?"</span>
    <br/><span class="annotation">[Peter Drucker][]: Is the product
    being designed __for__ the customer, or __at__ the customer?</span>
+1. What are you building for them?
+   <br/><span class="annotation"><= 70 chars</span>
 1. Write a tweet from a hypothetical customer explaining the product
    and how it eliminates their dissatisfaction.
    <br/><span class="annotation">[@BrianNorgard][]: No one cares
