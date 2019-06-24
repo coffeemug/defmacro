@@ -31,10 +31,10 @@ stages, good ideas are very easy to kill.
    solved a user problem. So did the App Store. And so did Spotify and
    Apple Music, and indeed Apple News. But what user problem is solved
    by Apple’s commissioning TV shows?"</span>
-   <br/><span class="annotation">[Peter Drucker][]: Is the product
-   being designed __for__ the customer, or __at__ the customer?</span>
 1. What are you building for them?
    <br/><span class="annotation"><= 70 chars</span>
+   <br/><span class="annotation">[Peter Drucker][]: Is the product
+   being designed __for__ the customer, or __at__ the customer?</span>
 1. Write a tweet from a hypothetical customer explaining the product
    and how it eliminates their dissatisfaction.
    <br/><span class="annotation">[@BrianNorgard][]: No one cares
