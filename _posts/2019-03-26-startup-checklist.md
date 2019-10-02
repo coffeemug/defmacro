@@ -87,10 +87,12 @@ stages, good ideas are very easy to kill.
 1. What would need to be true in 18 months for you to get essentially
    unlimited cheap capital? How will you achieve that?
    <br/><span class="annotation"><= 240 chars</span>
+   <br/><span class="annotation">__See also:__ [Fast][]</span>
    
 [Shut up and multiply]: https://wiki.lesswrong.com/wiki/Shut_up_and_multiply
 [Five ways to build a $100 million business]: http://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html
 [Do Things that Don't Scale]: http://paulgraham.com/ds.html
+[Fast]: https://patrickcollison.com/fast
 
 # Strategy
 
