@@ -113,7 +113,7 @@ stages, good ideas are very easy to kill.
    <br/><span class="annotation"><= 240 chars</span>
    <br/><span class="annotation">__See also:__ [How Competitive Forces Shape Strategy][]</span>
    
-[Tesla master plan]: https://twitter.com/spakhm/status/1111411471869595648
+[Tesla master plan]: https://twitter.com/spakhm/status/1179514116907495424
 [iPhone runs OSX]: https://twitter.com/stevesi/status/1111092932252041216
 [How Competitive Forces Shape Strategy]: https://hbr.org/1979/03/how-competitive-forces-shape-strategy
    
@@ -147,9 +147,12 @@ stages, good ideas are very easy to kill.
 new startup you hear about is bad. you will usually be right. you will
 never be successful."</span>
 
-1. Is it likely to be the most important company started this year?
+1. Is it likely to be the most important company started this decade?
 <br/><span class="annotation">__George Orwell__: "Whoever is winning
 at the moment will always seem to be invincible."</span>
+<br/><span class="annotation">__See also:__ [YC top companies][]</span>
+
+[YC top companies]: https://www.ycombinator.com/topcompanies/
 
 ---
 
