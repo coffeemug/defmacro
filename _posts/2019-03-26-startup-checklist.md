@@ -128,6 +128,7 @@ stages, good ideas are very easy to kill.
    give up to teleport there? If you found yourself in this
    counterfactual world, would you want to go back?
    <br/><span class="annotation"><= 140 chars</span>
+   <br/><span class="annotation">__See also:__ [America Online commercial in 1995][]</span>
 1. If another company was working on this idea and not you, what would
    you think about it? Would you join them?
    <br/><span class="annotation">Yes/no</span>
@@ -139,6 +140,7 @@ stages, good ideas are very easy to kill.
    <br/><span class="annotation">__See also:__ [Your intervention won’t work][]</span>
    
 [Your intervention won’t work]: https://twitter.com/statsepi/status/1021334815822548992
+[America Online commercial in 1995]: https://twitter.com/JonErlichman/status/1181646807924953088
 
 # Bonus
 
