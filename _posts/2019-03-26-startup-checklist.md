@@ -23,6 +23,7 @@ stages, good ideas are very easy to kill.
 
 1. Who are the users?
    <br/><span class="annotation"><= 70 chars</span>
+   <br/><span class="annotation">[Don Valentine][]: Who cares?</span>
 1. What is the essence of their dissatisfaction? If they read this
    answer, would they say "thanks, I wish I’d thought of putting it
    that way”?
@@ -66,6 +67,7 @@ stages, good ideas are very easy to kill.
 [@BrianNorgard]: https://twitter.com/BrianNorgard/status/1110915013085028353
 [The Rise of Worse is Better]: https://www.jwz.org/doc/worse-is-better.html
 [Worse is worse]: https://www.artima.com/weblogs/viewpost.jsp?thread=24807
+[Don Valentine]: https://www.sequoiacap.com/article/remembering-don-valentine/
 
 # Growth
 
