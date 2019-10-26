@@ -23,7 +23,7 @@ stages, good ideas are very easy to kill.
 
 1. Who are the users?
    <br/><span class="annotation"><= 70 chars</span>
-   <br/><span class="annotation">[Don Valentine][]: Who cares?</span>
+   <br/><span class="annotation">[Don Valentine][]: "Who cares?"</span>
 1. What is the essence of their dissatisfaction? If they read this
    answer, would they say "thanks, I wish I’d thought of putting it
    that way”?
@@ -38,11 +38,11 @@ stages, good ideas are very easy to kill.
    being designed __for__ the customer, or __at__ the customer?</span>
 1. Write a tweet from a hypothetical customer explaining the product
    and how it eliminates their dissatisfaction.
-   <br/><span class="annotation">[@BrianNorgard][]: No one cares
+   <br/><span class="annotation">[@BrianNorgard][]: "No one cares
    about your product. Who built it, its features, the origin story —
    it’s all superfluous. People only find value in what your product
    can do for them right now. Save people time. Save people money.
-   Give people an escape. The selfish hand will always govern.</span>
+   Give people an escape. __The selfish hand will always govern.__"</span>
    <br/><span class="annotation">[Peter Drucker][]: Are you __really__
    doing the best you can to help the customer?</span>
 1. Write a blog post title for your product launch. Is it
