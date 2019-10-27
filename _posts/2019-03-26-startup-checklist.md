@@ -130,7 +130,7 @@ stages, good ideas are very easy to kill.
    give up to teleport there? If you found yourself in this
    counterfactual world, would you want to go back?
    <br/><span class="annotation"><= 140 chars</span>
-   <br/><span class="annotation">__See also:__ [America Online commercial in 1995][], [Steve Jobs presents WebObjects at MSPDC][]</span>
+   <br/><span class="annotation">__See also:__ [America Online commercial in 1995][], [Steve Jobs presents WebObjects at MSPDC 1996][]</span>
 1. If another company was working on this idea and not you, what would
    you think about it? Would you join them?
    <br/><span class="annotation">Yes/no</span>
@@ -143,7 +143,7 @@ stages, good ideas are very easy to kill.
    
 [Your intervention won’t work]: https://twitter.com/statsepi/status/1021334815822548992
 [America Online commercial in 1995]: https://twitter.com/JonErlichman/status/1181646807924953088
-[Steve Jobs presents WebObjects at MSPDC]: https://www.youtube.com/watch?v=DmCu97u35Ek
+[Steve Jobs presents WebObjects at MSPDC 1996]: https://www.youtube.com/watch?v=DmCu97u35Ek
 
 # Bonus
 
