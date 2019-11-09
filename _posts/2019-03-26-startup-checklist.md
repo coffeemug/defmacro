@@ -56,10 +56,10 @@ stages, good ideas are very easy to kill.
    <br/><span class="annotation"><= 240 chars</span>
 1. What "metrics of goodness" do your target customers care about?
    Does your product dominate every available alternative on these
-   metrics?
+   metrics? (i.e. what can you do that no one else can do?)
    <br/><span class="annotation"><= 240 chars</span>
    <br/><span class="annotation">__See also:__ [The Rise of Worse is Better][],
-   [Worse is worse][]</span>
+   [Worse is worse][], [Jeff Bezos explains Amazon.com][]</span>
 
 [@sama]: https://twitter.com/sama/status/571733273996488704
 [@benedictevans]: https://twitter.com/benedictevans/status/1110538673873805314
@@ -68,6 +68,7 @@ stages, good ideas are very easy to kill.
 [The Rise of Worse is Better]: https://www.jwz.org/doc/worse-is-better.html
 [Worse is worse]: https://www.artima.com/weblogs/viewpost.jsp?thread=24807
 [Don Valentine]: https://www.sequoiacap.com/article/remembering-don-valentine/
+[Jeff Bezos explains Amazon.com]: https://twitter.com/profgalloway/status/1192777681789739008
 
 # Growth
 
