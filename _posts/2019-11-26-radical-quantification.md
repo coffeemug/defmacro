@@ -127,3 +127,9 @@ measure knowledge.
 
 [inferential step]: https://www.lesswrong.com/posts/HLqWn5LASfhhArZ7w/expecting-short-inferential-distances
 
+---
+
+_This post is part of the [Creative Library][]-- a series of clever
+techniques that simplify solving complex problems._
+
+[Creative Library]: /2019/11/26/creative-library.html
