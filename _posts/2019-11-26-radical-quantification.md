@@ -64,6 +64,8 @@ Value of Intangibles in Business][].
 [How Superhuman Built an Engine to Find Product/Market Fit]: https://firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit/
 [How to Measure Anything: Finding the Value of Intangibles in Business]: https://www.amazon.com/gp/product/0470539399/
 
+<p style="text-align: center;">&#1805;</p>
+
 Another example use of _radical quantification_ to answer a
 qualitative question: "how important will self-driving cars be as a
 technology?" There is of course no way to know, but in [Artificial
@@ -115,6 +117,8 @@ of how long your life really is.
 
 [Your Life in Weeks]: https://waitbutwhy.com/2014/05/life-weeks.html
 [buy]: https://store.waitbutwhy.com/collections/life-calendars
+
+<p style="text-align: center;">&#1805;</p>
 
 A different example of discretizing a continuous quantity is the idea
 of an [inferential step][] by Eliezer Yudkowsky. Consider the question
