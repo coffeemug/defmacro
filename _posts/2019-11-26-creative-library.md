@@ -32,3 +32,4 @@ to this page.
 [twitter]: https://twitter.com/spakhm
 
 * [Radical quantification](/2019/11/26/radical-quantification.html)
+* [Radical markets](/2019/11/26/radical-markets.html)
