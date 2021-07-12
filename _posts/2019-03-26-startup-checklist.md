@@ -60,6 +60,9 @@ stages, good ideas are very easy to kill.
    <br/><span class="annotation"><= 240 chars</span>
    <br/><span class="annotation">__See also:__ [The Rise of Worse is Better][],
    [Worse is worse][], [Jeff Bezos explains Amazon.com][]</span>
+1. Is your product as awesome as it could be? Probably not.
+   <br/><span class="annotation">y/N</span>
+   <br/><span class="annotation">__See also:__ [Elon Musk Advises CEOs][]</span>
 
 [@sama]: https://twitter.com/sama/status/571733273996488704
 [@benedictevans]: https://twitter.com/benedictevans/status/1110538673873805314
@@ -69,6 +72,7 @@ stages, good ideas are very easy to kill.
 [Worse is worse]: https://www.artima.com/weblogs/viewpost.jsp?thread=24807
 [Don Valentine]: https://www.sequoiacap.com/article/remembering-don-valentine/
 [Jeff Bezos explains Amazon.com]: https://twitter.com/profgalloway/status/1192777681789739008
+[Elon Musk Advises CEOs]: https://www.wsj.com/articles/elon-musk-advises-ceos-to-stop-wasting-time-on-powerpoint-meetings-11607470065
 
 # Growth
 
